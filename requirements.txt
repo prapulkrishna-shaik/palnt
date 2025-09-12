@@ -1,0 +1,11 @@
+# Frontend Dependencies
+streamlit
+
+# Backend Dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+requests
+transformers
+torch
